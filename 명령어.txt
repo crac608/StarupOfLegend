@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<a href="http://opentutorials.org">생활코딩</a>
+하이퍼링크"생활코딩"
+<br />
+줄넘김
+<input type="button" value="버튼" />
+버튼 만드는 태그
+<u>reason</u>
+밑줄 "reason"
+<strong>sentimental reason</strong>
+굵게"sentimental reason"
+<p style="margin-top:50px;"> </p>
+단락 margin(여백)-top(윗)
+<p> </p>
+단락
+<span style="font-size:24px"> </span>
+span(텍스트 줄 단위로 색을 칠한다)
+<img src="coding.jpg" height="70%">
+이미지 소스 높이는 창의 70%높이로
